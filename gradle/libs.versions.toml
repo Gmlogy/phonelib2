@@ -27,7 +27,7 @@ reprint = "2cb206415d"
 #recyclerviewFastscroller
 recyclerviewFastscroller = "5a95285b1f"
 #rtlViewpager
-rtlViewpager = "940f12724f"
+rtlViewpager = "v2.0.0"
 #Compose
 composeActivity = "1.9.3"
 compose = "1.7.6"
